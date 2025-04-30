@@ -22,7 +22,7 @@ Step  6 : Display the output.
 Step 7 : stop.
 
 **Program :**
-
+```
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
@@ -68,7 +68,7 @@ putpixel(xcenter+y, ycenter-x,1);
 putpixel(xcenter-y, ycenter-x,1); return 0;
 }
 
-
+```
 **Output :**
 
 ![image](https://github.com/user-attachments/assets/f5f99dcc-76ab-4242-ab71-9ef991dcaa49)
